@@ -1,0 +1,43 @@
+.image-preview{
+margin-top: 50px;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+
+
+.image-preview img {
+border-top: 30px solid #85ceed;
+border-right: 30px solid lightpink;
+border-left: 30px solid #ffefd5;
+border-bottom: 30px solid lightgreen;
+
+
+
+}
+
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    border-bottom: 1px solid #ddddddad;
+}
+
+th {
+    border-bottom: 2px solid #9292929f;
+}
+
